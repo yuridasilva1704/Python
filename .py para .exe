@@ -1,0 +1,23 @@
+  Existem várias formas para converter um ou mais arquivos python diretamente de um executável. A partir dos programas do Python, é possível. Dentre eles, constituem:
+    1. cx_Freeze
+    2. pyinstaller
+  
+=====================================================================================================================
+                                                     1. CX_FREEZE
+                                                      INSTALAÇÃO
+=====================================================================================================================
+
+  Para instalação do Cx_Freeze no WINDOWS, execusta-se os seguintes comandos pelo Prompt de Comando:
+  
+   > pip install cx_Freeze
+    
+=====================================================================================================================
+                                                       CONVERSÃO
+=====================================================================================================================
+
+  Para realizar a conversão, primeiramente é preciso chamar a aplicação logo em seguida inserir o nome do(s) arquivo(s) python desejado(s) (é preciso está dentro do diretório).
+  Segue abaixo os comandos para um arquivo chamado "script.py"
+  
+    > cxfreeze script.py
+   
+  Após isso, irá ser criado uma pasta contendo as informações com vários arquivos (python, e dlls). Dentro do diretório, haverá o arquivo executável desejado.
