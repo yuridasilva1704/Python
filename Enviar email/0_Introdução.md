@@ -1,1 +1,1 @@
-Bibliotecas utilizadas: #smtplib e email
+#Bibliotecas utilizadas: smtplib e email
