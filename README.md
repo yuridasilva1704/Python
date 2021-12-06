@@ -1,1 +1,1 @@
-# Algumas dicas para Python
+Algumas dicas para Python
